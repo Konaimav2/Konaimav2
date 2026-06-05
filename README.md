@@ -2,10 +2,9 @@
 
 # Arraffi
 
-### Junior Backend Developer · Cloud Infrastructure · API Builder
+### Junior Backend Developer
 
-Backend-focused student developer from Central Java, Indonesia.  
-I build server-side applications, WhatsApp bot systems, API services, dashboards, and automation tools.
+I build backend stuff, WhatsApp bots, API services, dashboards, and small tools that make my work easier.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arraffi.my.id-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://arraffi.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-KonaimaV2-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konaimav2)
@@ -17,20 +16,22 @@ I build server-side applications, WhatsApp bot systems, API services, dashboards
 
 ## About
 
-Hello! I'm Arraffi, a backend developer who likes working close to the system layer: APIs, databases, Linux servers, bot runtimes, deployment, and automation.
+Hi, I'm Arraffi. I'm a student developer from Central Java, Indonesia.
 
-My work usually focuses on making tools that are reliable, maintainable, and useful in real projects — not just demos.
+Most of the things I work on are around Node.js, APIs, Linux servers, databases, and bot runtimes. I like backend work because it feels close to how the system actually runs. If something breaks, there is usually a real reason behind it, and I enjoy finding that reason.
+
+I also spend a lot of time cleaning up old code, fixing weird runtime bugs, and making tools easier to maintain. Not always glamorous, but it matters.
 
 ```txt
-Focus      : Backend, APIs, bots, automation, infrastructure
-Location   : Central Java, Indonesia
-Stack      : Node.js, Python, Linux, SQL, Cloudflare, GitHub
-Maintains  : @konaa/baileys, MikirBot ecosystem, BerAPI experiments
+Focus    : Backend, APIs, bots, automation
+Location : Central Java, Indonesia
+Stack    : Node.js, Python, Linux, SQL, Cloudflare
+Package  : @konaa/baileys
 ```
 
 ---
 
-## Tech Stack
+## Tech I Use
 
 <div align="center">
 
@@ -49,16 +50,16 @@ Maintains  : @konaa/baileys, MikirBot ecosystem, BerAPI experiments
 
 ## Projects
 
-| Project | Description |
+| Project | What it is |
 |---|---|
-| [`@konaa/baileys`](https://github.com/Konaimav2/baileys) | Maintained Baileys RC build with Kiu/MikirBot legacy compatibility shims. |
-| **MikirBot** | WhatsApp bot ecosystem with plugins, media tools, rich replies, and automation features. |
-| **BerAPI** | API service and dashboard experiments with endpoint monitoring and admin tooling. |
-| [`Random`](https://github.com/Konaimav2/Random) | Public sandbox repository for experiments and utilities. |
+| [`@konaa/baileys`](https://github.com/Konaimav2/baileys) | My maintained Baileys build, mainly for MikirBot/Kiu compatibility. |
+| **MikirBot** | WhatsApp bot project with plugins, media tools, rich replies, and a lot of experiments. |
+| **BerAPI** | API service and dashboard project. Mostly backend, endpoint monitoring, and admin tooling. |
+| [`Random`](https://github.com/Konaimav2/Random) | Random public experiments and utility code. |
 
 ---
 
-## Contribution Activity
+## Contributions
 
 <div align="center">
 
@@ -84,12 +85,12 @@ Maintains  : @konaa/baileys, MikirBot ecosystem, BerAPI experiments
 
 ## Notes
 
-- I prefer clean backend architecture over overcomplicated abstractions.
-- I like automation when it removes repetitive work.
-- I care about keeping public packages documented and reproducible.
+- I prefer simple backend architecture that is easy to debug.
+- I like automation, but only when it actually saves time.
+- I care about keeping packages documented enough so future me does not suffer.
 
 <div align="center">
 
-`backend first · practical tooling · reliable systems`
+`backend first · practical tools · keep it maintainable`
 
 </div>
