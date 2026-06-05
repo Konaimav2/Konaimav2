@@ -6,7 +6,7 @@
 
 I build backend stuff, WhatsApp bots, API services, dashboards, and small tools that make my work easier.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arraffi.my.id-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://arraffi.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arraffi.my.id-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arraffi.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-KonaimaV2-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konaimav2)
 [![npm](https://img.shields.io/npm/v/@konaa/baileys?style=for-the-badge&label=@konaa/baileys&color=111827)](https://www.npmjs.com/package/@konaa/baileys)
 
