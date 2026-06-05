@@ -92,14 +92,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konaimav2&theme=react-dark&hide_border=true&area=true&custom_title=KonaimaV2%20Contribution%20Graph" alt="Contribution activity graph" />
 </p>
 
-<!--
-3D contribution chart support can be added with github-profile-3d-contrib.
-When enabled, use:
-
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
 </p>
--->
 
 ---
 
@@ -107,13 +102,13 @@ When enabled, use:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Konaimav2/Konaimav2/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Konaimav2/Konaimav2/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Konaimav2/Konaimav2/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Konaimav2/Konaimav2/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Konaimav2/Konaimav2/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Konaimav2/Konaimav2/main/dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-> Snake and true 3D contribution SVGs need GitHub Actions generation. The README is ready for them.
+> Snake and 3D contribution SVGs are generated automatically by GitHub Actions.
 
 ---
 
